@@ -3,8 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>Projeto do joao fonseca </h1>
+	<h1>Projeto do joao fonseca</h1>
+	<p>Paragrafo de joao fonseca</p>
 </body>
 </html>
